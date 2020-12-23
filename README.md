@@ -9,3 +9,5 @@ The code is pretty ugly. It works, can run for a day without creating a blackhol
 #notaprogramer
 
 I am happy for any suggestion for improvement.
+
+Oh, and be sure to edit the appsettings.json and change the IP to your mixer, if you try out the compiled plugin.
